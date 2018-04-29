@@ -1,0 +1,1 @@
+// register the service worker in every page
