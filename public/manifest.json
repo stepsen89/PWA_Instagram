@@ -1,0 +1,46 @@
+{
+  "name" : "Instagram as a PWA",
+  "short_name" : "PWAGram",
+  "icons" : [
+    {
+      "src" : "/src/images/icons/app-icon-48x48.png",
+      "type" : "image/png",
+      "styles" : "48x48"
+    },
+    {
+      "src" : "/src/images/icons/app-icon-96x96.png",
+      "type" : "image/png",
+      "styles" : "96x96"
+    },
+    {
+      "src" : "/src/images/icons/app-icon-144x144.png",
+      "type" : "image/png",
+      "styles" : "144x144"
+    },
+    {
+      "src" : "/src/images/icons/app-icon-192x192.png",
+      "type" : "image/png",
+      "styles" : "192x192"
+    },
+    {
+      "src" : "/src/images/icons/app-icon-252x252.png",
+      "type" : "image/png",
+      "styles" : "252x252"
+    },
+    {
+      "src" : "/src/images/icons/app-icon-512x512.png",
+      "type" : "image/png",
+      "styles" : "512x512"
+    }
+  ],
+  
+  "start_url" : "/index.html",
+  "scope" : ".",
+  "display" : "standalone",
+  "orientation" : "portrait-primary",
+  "background-color" : "#FFF",
+  "theme_color" : "#3F51B5",
+  "description" : "A simple Instagram clone",
+  "dir" : "ltr",
+  "lang" : "en/US"
+}
